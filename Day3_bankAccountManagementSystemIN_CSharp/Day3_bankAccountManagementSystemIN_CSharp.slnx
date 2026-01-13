@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankAudit/BankAudit.csproj" />
+  <Project Path="Day3_bankAccountManagementSystemIN_CSharp/Day3_bankAccountManagementSystemIN_CSharp.csproj" />
+</Solution>

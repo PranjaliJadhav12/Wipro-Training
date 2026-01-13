@@ -1,0 +1,4 @@
+C:\Users\Pranj\source\repos\Day3_bankAccountManagementSystemIN_CSharp\BankAudit\obj\Debug\net10.0\BankAudit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Day3_bankAccountManagementSystemIN_CSharp\BankAudit\obj\Debug\net10.0\BankAudit.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Day3_bankAccountManagementSystemIN_CSharp\BankAudit\obj\Debug\net10.0\BankAudit.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Day3_bankAccountManagementSystemIN_CSharp\BankAudit\obj\Debug\net10.0\BankAudit.csproj.CoreCompileInputs.cache

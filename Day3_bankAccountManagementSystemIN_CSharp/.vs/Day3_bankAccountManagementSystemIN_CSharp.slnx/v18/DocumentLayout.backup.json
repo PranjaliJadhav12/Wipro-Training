@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\day3_bankaccountmanagementsystemin_csharp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|solutionrelative:day3_bankaccountmanagementsystemin_csharp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\bankaudit\\bankaudit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|solutionrelative:bankaudit\\bankaudit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\bankaudit\\corporateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|solutionrelative:bankaudit\\corporateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\bankaudit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48409D73-577F-6565-4A1A-0172A9B9E982}|BankAudit\\BankAudit.csproj|solutionrelative:bankaudit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\day3_bankaccountmanagementsystemin_csharp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|solutionrelative:day3_bankaccountmanagementsystemin_csharp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|c:\\users\\pranj\\source\\repos\\day3_bankaccountmanagementsystemin_csharp\\day3_bankaccountmanagementsystemin_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5B5AC6-BA93-D115-F87C-CE3D38C33F50}|Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp.csproj|solutionrelative:day3_bankaccountmanagementsystemin_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAudit.csproj",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\BankAudit.csproj",
+              "RelativeDocumentMoniker": "BankAudit\\BankAudit.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\BankAudit.csproj",
+              "RelativeToolTip": "BankAudit\\BankAudit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T06:05:12.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorporateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\CorporateAccount.cs",
+              "RelativeDocumentMoniker": "BankAudit\\CorporateAccount.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\CorporateAccount.cs",
+              "RelativeToolTip": "BankAudit\\CorporateAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:52:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Day3_bankAccountManagementSystemIN_CSharp\\SavingAccount.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\SavingAccount.cs",
+              "RelativeToolTip": "Day3_bankAccountManagementSystemIN_CSharp\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:51:02.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\Program.cs",
+              "RelativeDocumentMoniker": "BankAudit\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\BankAudit\\Program.cs",
+              "RelativeToolTip": "BankAudit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:48:21.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Day3_bankAccountManagementSystemIN_CSharp\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\BankAccount.cs",
+              "RelativeToolTip": "Day3_bankAccountManagementSystemIN_CSharp\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:46:54.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Day3_bankAccountManagementSystemIN_CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Day3_bankAccountManagementSystemIN_CSharp\\Day3_bankAccountManagementSystemIN_CSharp\\Program.cs",
+              "RelativeToolTip": "Day3_bankAccountManagementSystemIN_CSharp\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:44:09.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

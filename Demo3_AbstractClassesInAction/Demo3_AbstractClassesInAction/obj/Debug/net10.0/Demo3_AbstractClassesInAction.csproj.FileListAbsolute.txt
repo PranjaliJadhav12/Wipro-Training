@@ -1,0 +1,4 @@
+C:\Users\Pranj\source\repos\Demo3_AbstractClassesInAction\Demo3_AbstractClassesInAction\obj\Debug\net10.0\Demo3_AbstractClassesInAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Demo3_AbstractClassesInAction\Demo3_AbstractClassesInAction\obj\Debug\net10.0\Demo3_AbstractClassesInAction.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Demo3_AbstractClassesInAction\Demo3_AbstractClassesInAction\obj\Debug\net10.0\Demo3_AbstractClassesInAction.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Demo3_AbstractClassesInAction\Demo3_AbstractClassesInAction\obj\Debug\net10.0\Demo3_AbstractClassesInAction.csproj.CoreCompileInputs.cache
