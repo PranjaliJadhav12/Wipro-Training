@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.sourcelink.json
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\bin\Debug\net10.0\Demo_FileHandling.exe
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\bin\Debug\net10.0\Demo_FileHandling.deps.json
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\bin\Debug\net10.0\Demo_FileHandling.runtimeconfig.json
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\bin\Debug\net10.0\Demo_FileHandling.dll
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\bin\Debug\net10.0\Demo_FileHandling.pdb
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.dll
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\refint\Demo_FileHandling.dll
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.pdb
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\Demo_FileHandling.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\Demo_FileHandling\Demo_FileHandling\obj\Debug\net10.0\ref\Demo_FileHandling.dll
