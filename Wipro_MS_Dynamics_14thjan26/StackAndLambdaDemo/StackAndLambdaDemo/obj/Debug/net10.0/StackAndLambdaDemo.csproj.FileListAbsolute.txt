@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\bin\Debug\net10.0\StackAndLambdaDemo.exe
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\bin\Debug\net10.0\StackAndLambdaDemo.deps.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\bin\Debug\net10.0\StackAndLambdaDemo.runtimeconfig.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\bin\Debug\net10.0\StackAndLambdaDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\bin\Debug\net10.0\StackAndLambdaDemo.pdb
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\refint\StackAndLambdaDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.pdb
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\StackAndLambdaDemo.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackAndLambdaDemo\StackAndLambdaDemo\obj\Debug\net10.0\ref\StackAndLambdaDemo.dll

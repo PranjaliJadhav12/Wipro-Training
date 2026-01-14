@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\bin\Debug\net10.0\StackDemo.exe
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\bin\Debug\net10.0\StackDemo.deps.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\bin\Debug\net10.0\StackDemo.runtimeconfig.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\bin\Debug\net10.0\StackDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\bin\Debug\net10.0\StackDemo.pdb
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\refint\StackDemo.dll
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.pdb
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\StackDemo.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\Wipro_MS_Dynamics_14thjan26\StackDemo\StackDemo\obj\Debug\net10.0\ref\StackDemo.dll
