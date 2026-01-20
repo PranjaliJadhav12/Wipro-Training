@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranj\\source\\repos\\Wipro_MS_Dynamics_15thjan26\\Demo_delegates_Indexers_properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2680A076-A97E-4EC2-8CB4-9D7D466F9ED0}|Demo_delegates_Indexers_properties\\Demo_delegates_Indexers_properties.csproj|c:\\users\\pranj\\source\\repos\\wipro_ms_dynamics_15thjan26\\demo_delegates_indexers_properties\\demo_delegates_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2680A076-A97E-4EC2-8CB4-9D7D466F9ED0}|Demo_delegates_Indexers_properties\\Demo_delegates_Indexers_properties.csproj|solutionrelative:demo_delegates_indexers_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro_MS_Dynamics_15thjan26\\Demo_delegates_Indexers_properties\\Demo_delegates_Indexers_properties\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_delegates_Indexers_properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro_MS_Dynamics_15thjan26\\Demo_delegates_Indexers_properties\\Demo_delegates_Indexers_properties\\Program.cs*",
+              "RelativeToolTip": "Demo_delegates_Indexers_properties\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:26:28.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
