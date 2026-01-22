@@ -1,0 +1,7 @@
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

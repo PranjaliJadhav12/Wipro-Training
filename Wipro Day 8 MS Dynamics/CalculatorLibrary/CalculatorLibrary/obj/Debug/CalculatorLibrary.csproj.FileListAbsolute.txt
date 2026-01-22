@@ -1,0 +1,7 @@
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll.config
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

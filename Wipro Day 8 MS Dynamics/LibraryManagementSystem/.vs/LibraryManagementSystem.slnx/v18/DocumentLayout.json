@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7809FCC8-8673-483A-B567-E812CB1C8FDA}|LibraryManagementSystem.App\\LibraryManagementSystem.App.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7809FCC8-8673-483A-B567-E812CB1C8FDA}|LibraryManagementSystem.App\\LibraryManagementSystem.App.csproj|solutionrelative:librarymanagementsystem.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\librarymanagementsystem.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\librarymanagementsystem.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\librarymanagementsystem.core.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.core\\librarymanagementsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F623E2D-24A0-48D1-9504-F0DDAA70840D}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\librarymanagementsystem.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LibraryManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C863B1E-63CE-4714-A38D-91BF7A5B4B06}|LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj|solutionrelative:librarymanagementsystem.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFA9878-C2B3-440E-945F-FAB03F2BC53E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFA9878-C2B3-440E-945F-FAB03F2BC53E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFA9878-C2B3-440E-945F-FAB03F2BC53E}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\librarymanagementsystem\\librarymanagementsystem\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagementSystem.Tests",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T18:14:54.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryManagementSystem.Tests",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\LibraryManagementSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T18:06:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.App\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.App\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:00:33.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:58:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:59:02.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Services\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Services\\Library.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Services\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Services\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:59:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Class1.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:55:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryManagementSystem.Core",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T18:13:16.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementSystem",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-21T18:14:01.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Tests\\LibraryTests.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Tests\\LibraryTests.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Tests\\LibraryTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:03:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryManagementSystem.Core",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T17:57:15.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:54:34.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

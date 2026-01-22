@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8392926-481E-4BD9-A2F5-37DB2FC24239}|CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\calculatorlibrary\\calculatorlibrary.tests\\calculatorlibrary.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8392926-481E-4BD9-A2F5-37DB2FC24239}|CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj|solutionrelative:calculatorlibrary.tests\\calculatorlibrary.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8392926-481E-4BD9-A2F5-37DB2FC24239}|CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\calculatorlibrary\\calculatorlibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8392926-481E-4BD9-A2F5-37DB2FC24239}|CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj|solutionrelative:calculatorlibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CACB12-09AB-4728-99C3-55BF558215F7}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\calculatorlibrary\\calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CACB12-09AB-4728-99C3-55BF558215F7}|CalculatorLibrary\\CalculatorLibrary.csproj|solutionrelative:calculatorlibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CACB12-09AB-4728-99C3-55BF558215F7}|CalculatorLibrary\\CalculatorLibrary.csproj|c:\\users\\pranj\\source\\repos\\wipro day 8 ms dynamics\\calculatorlibrary\\calculatorlibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorLibrary",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary\\CalculatorLibrary.csproj",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\CalculatorLibrary.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary\\CalculatorLibrary.csproj",
+              "RelativeToolTip": "CalculatorLibrary\\CalculatorLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-21T16:45:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorLibrary.Tests",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj",
+              "RelativeToolTip": "CalculatorLibrary.Tests\\CalculatorLibrary.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T16:42:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary.Tests\\CalculatorTests.cs*",
+              "RelativeToolTip": "CalculatorLibrary.Tests\\CalculatorTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:31:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\CalculatorLibrary\\CalculatorLibrary\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLibrary\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:26:30.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

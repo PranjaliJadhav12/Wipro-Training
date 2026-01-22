@@ -1,0 +1,17 @@
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\.msCoverageSourceRootsMapping_LibraryManagementSystem.Tests
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping_LibraryManagementSystem.Tests
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\LibraryManagementSystem.Core.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\LibraryManagementSystem.exe
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\LibraryManagementSystem.Core.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\LibraryManagementSystem.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\bin\Debug\net6.0\LibraryManagementSystem.exe.config
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryM.C96A8695.Up2Date
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\refint\LibraryManagementSystem.Tests.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Tests\obj\Debug\net6.0\LibraryManagementSystem.Tests.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiAOl3WWnUc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pranj\\source\\repos\\Wipro Day 8 MS Dynamics\\LibraryManagementSystem\\LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pranj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Pranj\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Pranj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

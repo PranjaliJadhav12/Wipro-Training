@@ -1,0 +1,12 @@
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net6.0\LibraryManagementSystem.Core.deps.json
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net6.0\LibraryManagementSystem.Core.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net6.0\LibraryManagementSystem.Core.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\refint\LibraryManagementSystem.Core.dll
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\LibraryManagementSystem.Core.pdb
+C:\Users\Pranj\source\repos\Wipro Day 8 MS Dynamics\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net6.0\ref\LibraryManagementSystem.Core.dll
