@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.exe
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.deps.json
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.runtimeconfig.json
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.dll
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\bin\Debug\net10.0\StudentMarksApp.pdb
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.sourcelink.json
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.dll
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\refint\StudentMarksApp.dll
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.pdb
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\StudentMarksApp.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\wipro_Day_5\StudentMarksApp\StudentMarksApp\obj\Debug\net10.0\ref\StudentMarksApp.dll
