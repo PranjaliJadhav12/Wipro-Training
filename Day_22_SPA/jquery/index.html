@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>jQuery Demo</title>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- jQuery UI -->
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="font-family: Arial; padding:20px;">
+
+  <h3>Appointment Date Selection</h3>
+  <label>Select Date:</label><br><br>
+  <input type="text" id="datePicker" placeholder="Click to select date">
+
+  <div class="section">
+    <h3>2. Slider (Price Range)</h3>
+    <div id="priceSlider"></div>
+    <p>Selected Price: ₹<span id="priceValue">500</span></p>
+  </div>
+
+  <div class="section">
+    <h3>3. Image Carousel</h3>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button><br><br>
+    <img id="carouselImg" src="images/image1.jpg" width="300">
+  </div>
+
+  <script>
+    $(document).ready(function () {
+
+      // Date Picker
+      $("#datePicker").datepicker({
+        dateFormat: "dd-mm-yy"
+      });
+
+      // Slider
+      $("#priceSlider").slider({
+        min: 100,
+        max: 1000,
+        value: 500,
+        slide: function (event, ui) {
+          $("#priceValue").text(ui.value);
+        }
+      });
+
+      // Image Carousel
+      let images = ["images/image1.jpg", "images/image2.jpg"];
+      let index = 0;
+
+      $("#next").click(function () {
+        index = (index + 1) % images.length;
+        $("#carouselImg").attr("src", images[index]);
+      });
+
+      $("#prev").click(function () {
+        index = (index - 1 + images.length) % images.length;
+        $("#carouselImg").attr("src", images[index]);
+      });
+
+    });
+  </script>
+
+</body>
+</html>
