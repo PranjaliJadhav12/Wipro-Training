@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart City Portal</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="bg-dark text-white p-3 d-flex justify-content-between">
+  <h4>Smart City</h4>
+  <nav>
+    <a href="#hero">Home</a>
+    <a href="#services">Services</a>
+    <a href="#form">Request</a>
+    <a href="#status">Status</a>
+  </nav>
+</header>
+
+<section id="hero" class="hero">
+  <h1>Citizen Service Portal</h1>
+  <p>Submit your city service requests</p>
+  <button onclick="scrollToForm()">Raise Request</button>
+</section>
+
+<section id="services" class="container mt-5">
+  <h2>Services</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card p-3">Water Supply</div>
+    </div>
+    <div class="col-md-4">
+      <div class="card p-3">Electricity</div>
+    </div>
+    <div class="col-md-4">
+      <div class="card p-3">Road Repair</div>
+    </div>
+  </div>
+</section>
+
+<section id="form" class="container mt-5">
+  <h2>Request Form</h2>
+  <form id="requestForm">
+    <input id="name" placeholder="Name">
+    <input id="email" placeholder="Email">
+    <select id="service">
+      <option value="">Select Service</option>
+      <option>Water</option>
+      <option>Electricity</option>
+      <option>Road</option>
+    </select>
+    <textarea id="desc" placeholder="Description"></textarea>
+    <button>Submit</button>
+  </form>
+  <p id="msg"></p>
+</section>
+
+<section id="status" class="container mt-5">
+  <h2>Submitted Requests</h2>
+  <ul id="list"></ul>
+</section>
+
+<footer class="text-center mt-5">© Smart City</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

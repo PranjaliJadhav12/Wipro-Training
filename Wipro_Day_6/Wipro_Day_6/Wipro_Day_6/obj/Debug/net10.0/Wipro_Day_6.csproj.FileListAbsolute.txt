@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\bin\Debug\net10.0\Wipro_Day_6.exe
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\bin\Debug\net10.0\Wipro_Day_6.deps.json
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\bin\Debug\net10.0\Wipro_Day_6.runtimeconfig.json
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\bin\Debug\net10.0\Wipro_Day_6.dll
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\bin\Debug\net10.0\Wipro_Day_6.pdb
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.dll
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\refint\Wipro_Day_6.dll
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.pdb
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\Wipro_Day_6.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\Wipro_Day_6\Wipro_Day_6\Wipro_Day_6\obj\Debug\net10.0\ref\Wipro_Day_6.dll

@@ -1,0 +1,4 @@
+[
+  { "service": "Water", "status": "Pending" },
+  { "service": "Electricity", "status": "Resolved" }
+]

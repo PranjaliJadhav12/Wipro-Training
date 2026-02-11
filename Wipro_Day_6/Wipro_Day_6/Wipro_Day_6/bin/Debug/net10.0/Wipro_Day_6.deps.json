@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Wipro_Day_6/1.0.0": {
+        "runtime": {
+          "Wipro_Day_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wipro_Day_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

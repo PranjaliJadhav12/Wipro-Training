@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranj\\source\\repos\\Wipro_Day_7\\Wipro_Day_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4E42F2-CF1D-4DB6-AAE2-D2787BFC4EDF}|Wipro_Day_7\\Wipro_Day_7.csproj|c:\\users\\pranj\\source\\repos\\wipro_day_7\\wipro_day_7\\wipro_day_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4E42F2-CF1D-4DB6-AAE2-D2787BFC4EDF}|Wipro_Day_7\\Wipro_Day_7.csproj|solutionrelative:wipro_day_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranj\\source\\repos\\Wipro_Day_7\\Wipro_Day_7\\Wipro_Day_7\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Day_7\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranj\\source\\repos\\Wipro_Day_7\\Wipro_Day_7\\Wipro_Day_7\\Program.cs",
+              "RelativeToolTip": "Wipro_Day_7\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:44:25.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

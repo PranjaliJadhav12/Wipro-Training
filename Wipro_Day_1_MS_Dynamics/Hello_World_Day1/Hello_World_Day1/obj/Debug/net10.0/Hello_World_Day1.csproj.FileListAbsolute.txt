@@ -1,0 +1,15 @@
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\bin\Debug\net10.0\Hello_World_Day1.exe
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\bin\Debug\net10.0\Hello_World_Day1.deps.json
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\bin\Debug\net10.0\Hello_World_Day1.runtimeconfig.json
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\bin\Debug\net10.0\Hello_World_Day1.dll
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\bin\Debug\net10.0\Hello_World_Day1.pdb
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.AssemblyInfoInputs.cache
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.AssemblyInfo.cs
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.csproj.CoreCompileInputs.cache
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.sourcelink.json
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.dll
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\refint\Hello_World_Day1.dll
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.pdb
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\Hello_World_Day1.genruntimeconfig.cache
+C:\Users\Pranj\source\repos\Wipro_Day_1_MS_Dynamics\Hello_World_Day1\Hello_World_Day1\obj\Debug\net10.0\ref\Hello_World_Day1.dll

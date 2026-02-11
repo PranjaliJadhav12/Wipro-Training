@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+}
+
+.hero {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: skyblue;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    height: 40vh;
+  }
+}
