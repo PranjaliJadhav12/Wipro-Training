@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Engagement Portal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- ================= NAVBAR ================= -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Customer Portal</a>
+        </div>
+    </nav>
+
+
+    <!-- ================= HEADER ================= -->
+    <header class="container text-center my-4">
+        <h1>Welcome to Customer Engagement Portal</h1>
+        <p class="lead">Responsive and Accessible Web Application</p>
+    </header>
+
+
+    <!-- ================= BOOTSTRAP CARD ================= -->
+    <section class="container my-4">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h5 class="card-title">Customer Support</h5>
+                        <p class="card-text">
+                            We provide 24/7 support for all our customers.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ================= CONTACT FORM ================= -->
+    <section class="container my-4">
+        <h2>Contact Us</h2>
+
+        <form id="contactForm">
+
+            <div class="mb-3">
+                <label for="name" class="form-label">Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter your name">
+            </div>
+
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter your email">
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                Submit
+            </button>
+
+        </form>
+    </section>
+
+
+    <!-- ================= AUDIO SECTION ================= -->
+    <section class="container my-4">
+        <h2>Portal Introduction Audio</h2>
+
+        <audio controls preload="auto">
+            <source src="assets/sample.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+
+    </section>
+
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="bg-dark text-white text-center p-3">
+        © 2026 Customer Engagement Portal
+    </footer>
+
+
+    <!-- ================= JAVASCRIPT ================= -->
+    <script src="js/script.js"></script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
