@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\Style.css
+wwwroot\app.js
+C:\Users\Pranj\source\repos\Capstone_Pranjali_Jadhav_Wipro\HRManagementSystem\HRManagementSystem\wwwroot\index.html
+C:\Users\Pranj\source\repos\Capstone_Pranjali_Jadhav_Wipro\HRManagementSystem\HRManagementSystem\wwwroot\Style.css
+C:\Users\Pranj\source\repos\Capstone_Pranjali_Jadhav_Wipro\HRManagementSystem\HRManagementSystem\wwwroot\app.js
